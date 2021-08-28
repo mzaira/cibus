@@ -15,7 +15,7 @@ REACT_APP_FIREBASE_STORAGE_BUCKET = cibus-development-27.appspot.com
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID = 903645652489
 REACT_APP_FIREBASE_APP_ID = 1:903645652489:web:9e2b8e9e5f5074fe57fad8
 ```
-
+Add https://drive.google.com/file/d/1U_zBGHBMhZof0ELtsnu9mZMerQ_L8Kot/view?usp=sharing file to scr/assets/
 
 # Getting Started with Create React App
 
