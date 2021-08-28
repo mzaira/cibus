@@ -1,7 +1,20 @@
 # Cibus
 Building a meal planner with 'Edamam API'
+
 ## About
-Meal preparation allows you to be more effective in determining the amounts of meals you and your family can eat, resulting in less food waste. Menu planning is a smart way to cut down on food waste and save money at the grocery store while also protecting the world.
+Meal preparation allows you to be more effective in determining the amounts of meals you and your family can eat, resulting in less food waste. Menu planning is a smart way to cut down on food waste and save money at the grocery store while also protecting the world. The descriptive assessment is on the file "Proof of Concept - Assessment Brief.pdf"
+
+#### Required File ####
+.env file
+code(REACT_APP_FIREBASE_API_KEY = AIzaSyA6zk9DNpuyqdqFBXR2GRcZCIt9t6PEQm0
+REACT_APP_FIREBASE_AUTH_DOMAN = cibus-development-27.firebaseapp.com
+REACT_APP_FIREBASE_DATABASE_URL = https://cibus-development-27-default-rtdb.europe-west1.firebasedatabase.app
+REACT_APP_FIREBASE_PROJECT_ID = cibus-development-27
+REACT_APP_FIREBASE_STORAGE_BUCKET = cibus-development-27.appspot.com
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID = 903645652489
+REACT_APP_FIREBASE_APP_ID = 1:903645652489:web:9e2b8e9e5f5074fe57fad8 )
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
