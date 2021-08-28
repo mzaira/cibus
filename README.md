@@ -6,7 +6,7 @@ Meal preparation allows you to be more effective in determining the amounts of m
 
 #### Required File ####
 .env file
-`REACT_APP_FIREBASE_API_KEY = AIzaSyA6zk9DNpuyqdqFBXR2GRcZCIt9t6PEQm0
+`code(REACT_APP_FIREBASE_API_KEY = AIzaSyA6zk9DNpuyqdqFBXR2GRcZCIt9t6PEQm0)
 REACT_APP_FIREBASE_AUTH_DOMAN = cibus-development-27.firebaseapp.com
 REACT_APP_FIREBASE_DATABASE_URL = https://cibus-development-27-default-rtdb.europe-west1.firebasedatabase.app
 REACT_APP_FIREBASE_PROJECT_ID = cibus-development-27
